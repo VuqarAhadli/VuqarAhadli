@@ -1,16 +1,14 @@
-# About Me
-
 Hi, I’m Vuqar Ahadli (Vuq17), a developer exploring different areas of programming. I enjoy both system-level programming and web development, and I like building projects that push me to learn new tools and approaches.
 
 ## What I Work On
 
-- Algorithms and computational problems, e.g., a lattice-reduction solver for the Shortest Vector Problem in Python.  
-- Embedded and low-level systems, e.g., a lightweight OS for ESP32 with display, WiFi, and file management in C++.  
-- Small-to-medium software projects, e.g., a supermarket management system in C++, an asset-manager tool in JavaScript, and a personal portfolio site in HTML.
+- Algorithms and computational problems.  
+- Embedded and low-level systems in C/C++.  
+- Small-to-medium scale software projects.
 
-## My Journey and Interests
+## My Interests
 
-I enjoy working across multiple languages including Python, C++, C, JavaScript, and HTML, and I try to use the right tool for each task. I focus on clarity and structure, applying OOP principles in C++ and organizing code logically. I like learning new things, whether it’s solving algorithm challenges, working with embedded systems, or building practical tools.
+I enjoy working across multiple languages including Python, C++, C, JavaScript, and HTML, and I try to use the right tool for each task. I like learning new things, whether it’s solving algorithm challenges, working with embedded systems, or building practical tools.
 
 ## What I’m Currently Doing
 
