@@ -1,18 +1,19 @@
-Hi, I’m Vuqar Ahadli (Vuq17), a developer exploring different areas of programming. I enjoy both system-level programming and web development, and I like building projects that push me to learn new tools and approaches.
+Hi, I’m Vuqar Ahadli (Vuq17), a developer exploring different areas of programming. I enjoy system-level programming, bare metal coding, algorithmical implementations, machine learning and web development, and I like building projects that push me to learn new tools and approaches.
 
 ## What I Work On
 
 - Algorithms and computational problems.  
-- Embedded and low-level systems in C/C++.  
+- Embedded and low-level systems in C/C++.
+- Machine learning models.
 - Small-to-medium scale software projects.
 
 ## My Interests
 
-I enjoy working across multiple languages including Python, C++, C, JavaScript, and HTML, and I try to use the right tool for each task. I like learning new things, whether it’s solving algorithm challenges, working with embedded systems, or building practical tools.
+I enjoy working across multiple languages including Python, C++, C and, C#, and I try to use the right tool for each task. I like learning new things, whether it’s solving algorithm challenges, working with embedded systems, or building practical tools.
 
 ## What I’m Currently Doing
 
-I’m working on projects that combine different areas, like systems programming with web interfaces. I’m also exploring open-source contributions to collaborate and grow with others, while continuously improving both my coding skills and knowledge.
+I’m working on projects that combine different areas, like an embedded OS and ML models on different datasets. I’m also exploring open-source contributions to collaborate and grow with others, while continuously improving both my coding skills and knowledge.
 
 ## Get in Touch
 
@@ -28,10 +29,8 @@ I’m open to collaboration, feedback, or just chatting about coding and project
 ![](https://nirzak-streak-stats.vercel.app/?user=VuqarAhadli&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VuqarAhadli&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VuqarAhadli&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VuqarAhadli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- created with GPRM ( https://gprm.itsvg.in ) :) -->
