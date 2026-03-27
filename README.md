@@ -13,3 +13,4 @@ Hi, I’m Vuqar Ahadli (Vuq17), a developer exploring different areas of program
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Vuq's GitHub stats](https://github-readme-stats.vercel.app/api?username=VuqarAhadli)](https://github.com/anuraghazra/github-readme-stats)
