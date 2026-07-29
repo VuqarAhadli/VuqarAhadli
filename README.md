@@ -17,7 +17,7 @@ Hi, I’m Vuqar Ahadli (Vuq17), a developer exploring different areas of program
 
 | Stats | Languages |
 |------|----------|
-| ![](https://stats-dusky-five.vercel.app/api?username=VuqarAhadli&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&cache_seconds=1800) | ![](https://stats-dusky-five.vercel.app/api/top-langs/?username=VuqarAhadli&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&cache_seconds=1800) |
+| ![](https://stats-dusky-five.vercel.app/api?username=VuqarAhadli&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&cache_seconds=1800) | ![](https://stats-dusky-five.vercel.app/api/top-langs/?username=VuqarAhadli&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&cache_seconds=10) |
 
 
 ![](https://komarev.com/ghpvc/?username=VuqarAhadli&color=000000&style=flat)
