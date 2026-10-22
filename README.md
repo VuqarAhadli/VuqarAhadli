@@ -1,21 +1,7 @@
-H
-He
-Hel
-Hell
-Hello
-Hello 
-Hello W
-Hello Wo
-Hello Wor
-Hello World
-Hello Worl
-Hello Wor
-Hello Wo
-Hello W
-Hello 
-Hello
-Hell
-Hel
-He
-H
+vuqar@div.edu.az vuqarahadli17@gmail.com
+<br>
+Linkedin: Vugar Ahadli
 
+Open for collaborations
+
+I love small and simple systems, runtimes, and embedded systems. Yet, simplicity is a subjective matter. 
